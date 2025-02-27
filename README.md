@@ -1,30 +1,30 @@
-# Image Editor and Screenshot App
+# 🌟 Image Editor and Screenshot App 🌟
 
-This repository contains two Python applications: an Image Editor and a Screenshot App.
+This repository contains two Python applications: an **Image Editor** and a **Screenshot App**.
 
-## Image Editor
+## 🖼️ Image Editor
 
 The Image Editor is a simple application that allows you to open, edit, and save images. It supports basic drawing, zooming, and navigation between images in a folder.
 
-### Features
+### ✨ Features
 
-- Open a folder containing images
-- Navigate between images
-- Draw on images with adjustable brush size
-- Zoom in, zoom out, and reset zoom
-- Save edited images
+- 📂 Open a folder containing images
+- 🔄 Navigate between images
+- ✏️ Draw on images with adjustable brush size
+- 🔍 Zoom in, zoom out, and reset zoom
+- 💾 Save edited images
 
-### Requirements
+### 📋 Requirements
 
 - Python 3.x
 - `tkinter` (usually included with Python)
 - `Pillow` library
 
-### Installation
+### ⚙️ Installation
 
 1. Clone the repository:
     ```sh
-    https://github.com/adnanul-islam-jisun/Python-Useful-Application.git
+    git clone https://github.com/adnanul-islam-jisun/Python-Useful-Application.git
     cd Python-Useful-Application
     ```
 
@@ -33,7 +33,7 @@ The Image Editor is a simple application that allows you to open, edit, and save
     pip install Pillow
     ```
 
-### Usage
+### 🚀 Usage
 
 1. Run the Image Editor:
     ```sh
@@ -42,37 +42,34 @@ The Image Editor is a simple application that allows you to open, edit, and save
 
 2. Use the UI to open a folder, navigate between images, draw on images, zoom in/out, and save your edits.
 
-## Screenshot App
+## 📸 Screenshot App
 
 The Screenshot App is a simple application that allows you to take screenshots and save them to a specified directory.
 
-### Features
+### ✨ Features
 
-- Take screenshots
-- Save screenshots to a specified directory
+- 📸 Take screenshots
+- 💾 Save screenshots to a specified directory
 
-### Requirements
+### 📋 Requirements
 
 - Python 3.x
 - [tkinter](http://_vscodecontentref_/0) (usually included with Python)
 
-### Installation
+### ⚙️ Installation
 
 1. Clone the repository:
     ```sh
-    https://github.com/adnanul-islam-jisun/Python-Useful-Application.git
+    git clone https://github.com/adnanul-islam-jisun/Python-Useful-Application.git
     cd Python-Useful-Application
     ```
 
-### Usage
+### 🚀 Usage
 
 1. Run the Screenshot App:
     ```sh
     python screen_capture.py
     ```
 
-2. Use the UI to take screenshots and save them to the specified directory.
+2. Use the UI to take screenshots and save them to the specified directory. From the code give the directory.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
