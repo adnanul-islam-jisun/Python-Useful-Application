@@ -24,8 +24,8 @@ The Image Editor is a simple application that allows you to open, edit, and save
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    https://github.com/adnanul-islam-jisun/Python-Useful-Application.git
+    cd Python-Useful-Application
     ```
 
 2. Install the required Python packages:
@@ -60,8 +60,8 @@ The Screenshot App is a simple application that allows you to take screenshots a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    https://github.com/adnanul-islam-jisun/Python-Useful-Application.git
+    cd Python-Useful-Application
     ```
 
 ### Usage
